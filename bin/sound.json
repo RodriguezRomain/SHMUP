@@ -1,0 +1,48 @@
+{
+	"files" : {
+		"fxs" :{
+			"bomb"				 : {"asset":"bomb", "volume":1},
+			"bossExplosion"		 : {"asset":"boss_explosion", "volume":1},
+			"bossShoot"			 : {"asset":"boss_shoot", "volume":1},
+			"click"				 : {"asset":"click", "volume":1},
+			"enemy0Explosion0"	 : {"asset":"enemy0_explosion0", "volume":1},
+			"enemy0Explosion1"	 : {"asset":"enemy0_explosion1", "volume":1},
+			"enemy0Explosion2"	 : {"asset":"enemy0_explosion2", "volume":1},
+			"enemy0Explosion3"	 : {"asset":"enemy0_explosion3", "volume":1},
+			"enemyExplosion"	 : {"asset":"enemy_explosion", "volume":1},
+			"enemyNear"			 : {"asset":"enemy_near", "volume":1},
+			"enemyShoot"		 : {"asset":"enemy_shoot", "volume":1},
+			"loseLife"			 : {"asset":"loselife", "volume":1},
+			"powerupBomb"		 : {"asset":"powerup_bomb", "volume":1},
+			"playerExplosion"	 : {"asset":"player_explosion", "volume":1},
+			"playerShoot0"		 : {"asset":"player_shoot0", "volume":1},
+			"playerShoot1"		 : {"asset":"player_shoot1", "volume":1},
+			"playerShoot2"		 : {"asset":"player_shoot2", "volume":1},
+			"playerShoot3"		 : {"asset":"player_shoot3", "volume":1},
+			"powerupFirePower"	 : {"asset":"powerup_firePower", "volume":1},
+			"powerupFireUpgrade" : {"asset":"powerup_fireUpgrade", "volume":1},
+			"powerupLife"		 : {"asset":"powerup_life", "volume":1},
+			"powerupSpecial"	 : {"asset":"powerup_special", "volume":1},
+			"powerupShield"		 : {"asset":"powerup_shield", "volume":1},
+			"shield"		 	 : {"asset":"shield", "volume":1},
+			"shieldExplosion"	 : {"asset":"shield_explosion", "volume":1},
+			"special"			 : {"asset":"special", "volume":1},
+			"missile"			 : {"asset":"missile", "volume":1}
+		},
+		"musics" :{
+			"bossLoop0"			: {"asset":"boss_loop0", "volume":1},
+			"bossLoop1"			: {"asset":"boss_loop1", "volume":1},
+			"bossLoop2"			: {"asset":"boss_loop2", "volume":1},
+			"gameoverJingle"	: {"asset":"gameover_jingle", "volume":1},
+			"levelLoop"			: {"asset":"level_loop", "volume":1},
+			"ambienceLoop"	    : {"asset":"ambience_loop", "volume":1},
+			"uiLoop"			: {"asset":"ui_loop", "volume": 1},
+			"winJingle"			: {"asset":"win_jingle", "volume":1}
+		}
+	},
+	"volumes" : {
+		"master" : 1,
+		"fxs" : 0.75,
+		"musics" : 0.75
+	}	
+}

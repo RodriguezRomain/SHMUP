@@ -1,0 +1,123 @@
+<xliff version="1.2">
+	<file original="" source-language="en-US" target-language="fr-FR">
+		<header></header>
+		<body>
+			<trans-unit id="1">
+				<source>Z-TYPE</source>
+				<target>Z-TYPE</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>PLAY</source>
+				<target>JOUER</target>
+			</trans-unit>
+			<trans-unit id="3">
+				<source>HELP</source>
+				<target>AIDE</target>
+			</trans-unit>
+			<trans-unit id="4">
+				<source>SPECIAL</source>
+				<target>SPECIAL</target>
+			</trans-unit>
+			<trans-unit id="5">
+				<source>NEXT</source>
+				<target>SUITE</target>
+			</trans-unit>
+			<trans-unit id="6">
+				<source>move</source>
+				<target>déplacer</target>
+			</trans-unit>
+			<trans-unit id="7">
+				<source>fire</source>
+				<target>tirer</target>
+			</trans-unit>
+			<trans-unit id="8">
+				<source>bombs</source>
+				<target>bombes</target>
+			</trans-unit>
+			<trans-unit id="9">
+				<source>health</source>
+				<target>vie</target>
+			</trans-unit>
+			<trans-unit id="10">
+				<source>special</source>
+				<target>spécial</target>
+			</trans-unit>
+			<trans-unit id="11">
+				<source>god mode</source>
+				<target>mode Dieu</target>
+			</trans-unit>
+			<trans-unit id="12">
+				<source>Touch lives on the Hud to enable god mode</source>
+				<target>Toucher les vies dans le Hud pour activer le mode Dieu</target>
+			</trans-unit>
+			<trans-unit id="13">
+				<source>pause</source>
+				<target>pause</target>
+			</trans-unit>
+			<trans-unit id="14">
+				<source>fire upgrade</source>
+				<target>amélioration tir</target>
+			</trans-unit>
+			<trans-unit id="15">
+				<source>fire power</source>
+				<target>puissance du tir</target>
+			</trans-unit>
+			<trans-unit id="16">
+				<source>bomb +1</source>
+				<target>bombe +1</target>
+			</trans-unit>
+			<trans-unit id="17">
+				<source>life up</source>
+				<target>vie réstaurée</target>
+			</trans-unit>
+			<trans-unit id="18">
+				<source>shield</source>
+				<target>bouclier</target>
+			</trans-unit>
+			<trans-unit id="19">
+				<source>Slide your finger anywhere on screen to move the ship</source>
+				<target>Glisser votre doigt sur l'écran pour bouger le vaisseau</target>
+			</trans-unit>
+			<trans-unit id="20">
+				<source>lives</source>
+				<target>vies</target>
+			</trans-unit>
+			<trans-unit id="21">
+				<source>GAME OVER</source>
+				<target>GAME OVER</target>
+			</trans-unit>
+			<trans-unit id="22">
+				<source>YOU WIN</source>
+				<target>YOU WIN</target>
+			</trans-unit>
+			<trans-unit id="23">
+				<source>SCORE</source>
+				<target>SCORE</target>
+			</trans-unit>
+			<trans-unit id="24">
+				<source>CREDITS</source>
+				<target>CREDITS</target>
+			</trans-unit>
+			<trans-unit id="25">
+				<source>RESUME</source>
+				<target>CONTINUER</target>
+			</trans-unit>
+			<trans-unit id="26">
+				<source>QUIT</source>
+				<target>QUITTER</target>
+			</trans-unit>
+			<trans-unit id="27">
+				<source>Press "SPECIAL" to activate the shield</source>
+				<target>Appuyer sur "SPECIAL" pour activer le bouclier</target>
+			</trans-unit>
+			<trans-unit id="28">
+				<source>If an enemy's bullet hits the shield it will be destroyed and the player's will become it's type</source>
+				<target>Si une balle ennemie touche le bouclier elle sera détruite et les balles du joueur prendront son type</target>
+			</trans-unit>
+			<trans-unit id="29">
+				<source>If the player hits an enemy with a bullet of the same type it will take twice as much damage</source>
+				<target>Si le joueur touche un ennemi avec une balle du même type il prendra deux fois plus de dégats</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

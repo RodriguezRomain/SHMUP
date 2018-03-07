@@ -1,0 +1,28 @@
+Elements finis:
+Boss fonctionnel
+Player fonctionnel
+Special fonctionnel
+Bonus de score lorsque le joueur bloque une balle avec le special
+Ennemis et patterns d'attaque fonctionnels
+Ecran pause fonctionnel
+Ecran credit
+Obstacles destructibles fonctionnels
+Graphismes et sons intégrés ( graphismes pour le special actif et les missiles manquant)
+Powerups fonctionnels + power up bouclier supplémentaire
+Bonus de score si le power-up est inutile (vie à 100%, nombres de bombes déja au maximum,...)
+God mode fonctionnel
+Missiles avec systeme de lock on
+Hit pause et screenshake intégrés
+Hud fonctionnel avec tween de la barre de vie
+Popin et tween du score
+Scrolling des backgrounds et du foreground
+
+
+Eléments incomplets:
+Le graphisme d'activation du special est manquant
+Le graphisme pour les missiles est manquant
+Changement de couleur des bullets partiellement intégré
+Changement des textes suivant la langue incomplet
+
+Bugs:
+Parfois les bullets ne se detruisent pas correctement
